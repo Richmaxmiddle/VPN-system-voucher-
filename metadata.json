@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Data VPN",
+  "description": "Complete Zero-Data VPN system with automated voucher management and administrative routing control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
